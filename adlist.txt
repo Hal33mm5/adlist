@@ -8,3 +8,4 @@ play.google.com
 swiggy.com
 godrejenterprises.com
 nykaa.com
+chitti.app
