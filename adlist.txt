@@ -10,3 +10,4 @@ godrejenterprises.com
 nykaa.com
 chitti.app
 go.com
+play-fe.googleapis.com
