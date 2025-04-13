@@ -11,3 +11,4 @@ nykaa.com
 chitti.app
 go.com
 googleapis.com
+redirector.googlevideo.com
