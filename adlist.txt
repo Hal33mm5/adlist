@@ -13,3 +13,5 @@ go.com
 googleapis.com
 redirector.googlevideo.com
 honeygain.com
+houseofraymond.in
+myraymond.com
