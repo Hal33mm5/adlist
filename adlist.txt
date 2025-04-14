@@ -12,3 +12,4 @@ chitti.app
 go.com
 googleapis.com
 redirector.googlevideo.com
+honeygain.com
